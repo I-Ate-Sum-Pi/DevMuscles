@@ -1,0 +1,6 @@
+[submodule "DevMuscles-Client"]
+	path = DevMuscles-Client
+	url = git@github.com:I-Ate-Sum-Pi/DevMuscles-Client.git
+[submodule "DevMuscles-Server"]
+	path = DevMuscles-Server
+	url = git@github.com:I-Ate-Sum-Pi/DevMuscles-Server.git
