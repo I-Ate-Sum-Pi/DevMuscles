@@ -1,6 +1,6 @@
 # DevMuscles
 
-A workout planner for create and scheduling fully customised workouts.
+A workout planner for creating and scheduling fully customised workouts.
 
 Created by [Akash](https://github.com/akashkhambay) [Jawwad](https://github.com/JawwadUddin) and [Max](https://github.com/Velocima)
 
