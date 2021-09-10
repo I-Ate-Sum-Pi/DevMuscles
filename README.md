@@ -4,8 +4,8 @@ A workout planner for create and scheduling fully customised workouts.
 
 Created by [Akash](https://github.com/akashkhambay) [Jawwad](https://github.com/JawwadUddin) and [Max](https://github.com/Velocima)
 
-[Devmuscles Client](https://github.com/I-Ate-Sum-Pi/DevMuscles-Client)
-[Devmuscles Server](https://github.com/I-Ate-Sum-Pi/DevMuscles-Server)
+- [Devmuscles Client](https://github.com/I-Ate-Sum-Pi/DevMuscles-Client)
+- [Devmuscles Server](https://github.com/I-Ate-Sum-Pi/DevMuscles-Server)
 
 ## Planning
 
