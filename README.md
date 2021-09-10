@@ -15,3 +15,7 @@ Created by [Akash](https://github.com/akashkhambay) [Jawwad](https://github.com/
 ## Changelog
 
 The full changelog can be found [here](./changelog.md)
+
+## bugs
+
+If you find a bug and would like to report it, please [submit an issue](https://github.com/I-Ate-Sum-Pi/DevMuscles/issues)
